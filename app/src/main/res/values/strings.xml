@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">piratePlaces2</string>
+    <string name="p1">Minges</string>
+    <string name="p2">SCITech</string>
+    <string name="p3">Student Center</string>
+    <string name="p4">Austin Building</string>
+    <string name="p5">Gateway</string>
+    <string name="p6">West end</string>
+
+    <string name="n1">Hank</string>
+    <string name="n2">Jessie</string>
+    <string name="n3">Saul</string>
+    <string name="n4">Walter</string>
+    <string name="n5">Walter Jr.</string>
+    <string name="n6">Todd</string>
+
+    <string name="true_button">Check in</string>
+    <string name="false_button">Check out</string>
+    <string name="correct_toast">Checked in</string>
+    <string name="incorrect_toast">Checked out</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="next_toast">End of the line</string>
+    <string name="back_toast">You shall not pass</string>
+</resources>
