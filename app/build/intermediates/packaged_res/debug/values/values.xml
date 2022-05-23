@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">piratePlaces2</string>
+    <string name="back_button">Back</string>
+    <string name="back_toast">You shall not pass</string>
+    <string name="correct_toast">Checked in</string>
+    <string name="false_button">Check out</string>
+    <string name="incorrect_toast">Checked out</string>
+    <string name="n1">Hank</string>
+    <string name="n2">Jessie</string>
+    <string name="n3">Saul</string>
+    <string name="n4">Walter</string>
+    <string name="n5">Walter Jr.</string>
+    <string name="n6">Todd</string>
+    <string name="next_button">Next</string>
+    <string name="next_toast">End of the line</string>
+    <string name="p1">Minges</string>
+    <string name="p2">SCITech</string>
+    <string name="p3">Student Center</string>
+    <string name="p4">Austin Building</string>
+    <string name="p5">Gateway</string>
+    <string name="p6">West end</string>
+    <string name="true_button">Check in</string>
+    <style name="Theme.PiratePlaces2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
